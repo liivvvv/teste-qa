@@ -1,4 +1,4 @@
-# Desafio técnico QA | Sistema de autorização de exames
+# Sistema de autorização de exames
 
 Este repositório contém a solução para um desafio técnico de QA, no contexto de sistemas de saúde para operadoras. A entrega inclui queries SQL, casos de teste para o fluxo de autorização de exames e um bug report detalhado.
 
